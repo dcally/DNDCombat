@@ -1,0 +1,12 @@
+﻿  MainCode.cpp
+C:\Users\ebrit\source\repos\Data-Structures\DNDExe\DNDExe\DNDExe\MainCode.cpp(338,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ebrit\source\repos\Data-Structures\DNDExe\DNDExe\DNDExe\MainCode.cpp(349,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ebrit\source\repos\Data-Structures\DNDExe\DNDExe\DNDExe\MainCode.cpp(358,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ebrit\source\repos\Data-Structures\DNDExe\DNDExe\DNDExe\MainCode.cpp(433,20): warning C4018:  '<': signed/unsigned mismatch
+  stdafxcpp.cpp
+  Generating Code...
+C:\Users\ebrit\source\repos\Data-Structures\DNDExe\DNDExe\DNDExe\MainCode.cpp(437,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\ebrit\source\repos\Data-Structures\DNDExe\DNDExe\DNDExe\ICharacter.h(94): warning C4715:  'ICharacter::IsWizard': not all control paths return a value
+C:\Users\ebrit\source\repos\Data-Structures\DNDExe\DNDExe\DNDExe\ICharacter.h(100): warning C4715:  'ICharacter::IsCler': not all control paths return a value
+  LINK : C:\Users\ebrit\source\repos\Data-Structures\DNDExe\DNDExe\Debug\DNDExe.exe not found or not built by the last incremental link; performing full link
+  DNDExe.vcxproj -> C:\Users\ebrit\source\repos\Data-Structures\DNDExe\DNDExe\Debug\DNDExe.exe
